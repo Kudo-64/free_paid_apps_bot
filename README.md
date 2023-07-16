@@ -17,7 +17,7 @@ This script showcases how algorithms can improve the efficiency of your workload
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Ho9mes/free_paid_apps_grabber.git
+git clone https://github.com/Ho9mes/free_paid_apps_bot.git
 ```
 2. Get into the directory
 
